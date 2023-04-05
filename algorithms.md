@@ -1,3 +1,5 @@
+# Algorithms
+
 - Breadth First Search
 - Depth First Search
 - Karatsuba's Multiplication
