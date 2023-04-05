@@ -12,6 +12,8 @@ My name is Daniel Lee, and I am a *CS Major* at **UCSD**.
 
 <sup>I play League of Legends</sup>
 
+Click [here](#lists) to see a list of my favorite games
+
 Here is a picture of a racoon I found on campus
 
 ![Racoon](images/racoon.jpg)
