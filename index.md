@@ -78,3 +78,5 @@ These are some CSE classes I have taken, and some I have not taken yet
 - [ ] CSE 120
 - [ ] CSE 130 (in progress)
 - [ ] CSE 140/140L
+- [x] CSE 151A
+- [ ] CSE 151B (in progress)
