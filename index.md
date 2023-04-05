@@ -48,10 +48,10 @@ Here are some [algorithms](algorithms.md) I learned in cse 101.
 
 A list of my favorite games, in no particular order:
 
-- Team Fortress 2
+* Team Fortress 2
 * Dark Souls 3
 * Bloodborne
-+ Sekiro: Shadows Die Twice
+* Sekiro: Shadows Die Twice
 * Elden Ring
 * The Witcher 3
 
@@ -59,7 +59,7 @@ A list of my favorite presidents, in order
 
 1. Abraham Lincoln
     - Very cool president
-      - Lead the US during the Civil War
+      - Led the US during the Civil War
 2. George Washington
 3. William Howard Taft
 4. Franklin D. Roosevelt
